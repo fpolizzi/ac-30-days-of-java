@@ -7,7 +7,7 @@ public class GradeCalculator {
     public static void main(String[] args) {
 
         double gradeMath = 61.3;
-        double gradeBiologie = 71.9;
+        double gradeBiology = 71.9;
         double gradeEnglish = 73.4;
         double gradePhysics = 58.5;
         double gradeGeography = 62.3;
@@ -16,7 +16,7 @@ public class GradeCalculator {
 
         double average = (
         gradeMath +
-        gradeBiologie +
+        gradeBiology +
         gradeEnglish +
         gradePhysics +
         gradeGeography +
