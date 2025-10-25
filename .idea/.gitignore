@@ -6,3 +6,6 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+!/ShortcutLearner.xml
+!/git_toolbox_prj.xml
+!/git_toolbox_prj.xml

@@ -3,8 +3,9 @@
   <component name="ShortcutStateService">
     <option name="shortcutCounts">
       <map>
-        <entry key="COPY_HISTORY" value="1" />
+        <entry key="COPY_HISTORY" value="5" />
         <entry key="FORMAT" value="1" />
+        <entry key="SELECT_NEXT_OCCURRENCE" value="6" />
       </map>
     </option>
   </component>
