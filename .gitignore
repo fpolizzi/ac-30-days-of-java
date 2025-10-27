@@ -9,6 +9,8 @@ target/
 .idea/jarRepositories.xml
 .idea/compiler.xml
 .idea/libraries/
+.idea/ShortcutLearner.xml
+.idea/.gitignore
 *.iws
 *.iml
 *.ipr
